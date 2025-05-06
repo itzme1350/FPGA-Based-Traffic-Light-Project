@@ -1,0 +1,10 @@
+Material and Equipements
+•	BASYS 3 FPGA Development Board
+•	Breadboard
+•	LEDs (Red, Yellow, Green)
+•	220Ω Resistors (6 units)
+•	Connecting Wires
+•	Computer with Xilinx Vivado Design Suite
+•	Multimeter (for voltage measurement)
+
+This project involves using Finite State Machines (FSM) to control the traffic lights. The FSM cycles through states representing green, yellow, and red lights for each traffic direction based on a timing sequence. The FPGA's programmable logic pins control the LEDs based on the synthesized Verilog code.
